@@ -1,7 +1,7 @@
 text_skin: default
 highlight_theme: default
-url: ''
-baseurl: ''
+url: 'https://caksup.github.io/index.html/'
+baseurl: 'https://caksup.github.io/index.html/'
 title: Your Site Title
 description: |
   Your Site Description
@@ -10,7 +10,7 @@ timezone: null
 author:
   type: null
   name: Your Name
-  url: null
+  url: https://caksup.github.io/index.html/
   avatar: null
   bio: I am an amazing person.
   email: null
