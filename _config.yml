@@ -1,7 +1,7 @@
 text_skin: default
 highlight_theme: default
-url: 'https://caksup.github.io/index.html'
-baseurl: 'https://caksup.github.io/index.html'
+url: 'https://caksup.github.io/index.html/'
+baseurl: 'https://caksup.github.io/index.html/'
 title: caksup index
 description: |
   Get knowledge now!
