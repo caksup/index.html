@@ -1,14 +1,15 @@
 text_skin: default
 highlight_theme: default
-url: 'https://caksup.github.io/index.html/'
-baseurl: 'https://caksup.github.io/index.html/'
-title: caksup index
-description: null
+url: ''
+baseurl: ''
+title: Your Site Title
+description: |
+  Your Site Description
 lang: null
-timezone: Asia/Jakarta
-author: caksup
-  type:
-  name: caksup
+timezone: null
+author:
+  type: null
+  name: Your Name
   url: null
   avatar: null
   bio: I am an amazing person.
@@ -22,9 +23,9 @@ author: caksup
   zhihu: null
   douban: null
   linkedin: null
-  github: caksup
+  github: null
   npm: null
-repository: caksup/index.html
+repository: user_name/repo_name
 repository_tree: master
 paths:
   root: null
