@@ -4,9 +4,9 @@ url: 'https://caksup.github.io/index.html/'
 baseurl: 'https://caksup.github.io/index.html/'
 title: caksup index
 description: |
-  Get knowledge now!
+  "Get knowledge now!"
 lang: id
-timezone: gmt+7
+timezone: Asia/Jakarta
 author: caksup
   type: null
   name: caksup
@@ -23,7 +23,7 @@ author: caksup
   zhihu: null
   douban: null
   linkedin: null
-  github: caksuo
+  github: caksup
   npm: null
 repository: caksup/index.html
 repository_tree: master
