@@ -3,9 +3,8 @@ highlight_theme: default
 url: 'https://caksup.github.io/index.html/'
 baseurl: 'https://caksup.github.io/index.html/'
 title: caksup index
-description: |
-  "Get knowledge now!"
-lang: id
+description: null
+lang: null
 timezone: Asia/Jakarta
 author: caksup
   type: null
