@@ -1,8 +1,8 @@
 text_skin: default
 highlight_theme: default
 url: ''
-baseurl: ''
-title: Your Site Title
+baseurl: 'https://caksup.github.io/index.html'
+title: caksup index
 description: |
   Your Site Description
 lang: null
